@@ -4,11 +4,12 @@ import json
 import time
 from kafka import KafkaProducer
 
-KAFKA_TOPIC = "crypto-rss"
+# Ganti topik Kafka menjadi saham-rss untuk berita pasar modal
+KAFKA_TOPIC = "saham-rss"  # Topik untuk berita saham IDX
 KAFKA_BOOTSTRAP_SERVERS = "localhost:9092"
 RSS_FEEDS = [
-    "https://www.coindesk.com/arc/outboundfeeds/rss/",
-    "https://cointelegraph.com/rss"  # backup kalau coindesk gagal
+    "https://rss.bisnis.com/feed/rss2/financial-market",  # RSS Feed untuk berita pasar modal
+    "https://www.cnnindonesia.com/ekonomi/rss"  # Backup feed untuk berita pasar modal
 ]
 
 def get_hash(url):
