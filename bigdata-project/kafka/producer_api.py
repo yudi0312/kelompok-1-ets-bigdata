@@ -22,7 +22,7 @@ from kafka.errors import KafkaError
 # Konfigurasi
 # ---------------------------------------------------------------------------
 KAFKA_BOOTSTRAP_SERVERS = "localhost:9092"
-KAFKA_TOPIC = "saham-api"
+KAFKA_TOPIC = "crypto-api"
 TICKERS = ["BBCA.JK", "BBRI.JK", "TLKM.JK", "ASII.JK", "BMRI.JK"]
 POLLING_INTERVAL_SECONDS = 60
 
