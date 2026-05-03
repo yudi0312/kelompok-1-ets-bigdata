@@ -1,0 +1,137 @@
+{
+  "generated_at": "2026-05-03 03:45:37",
+  "is_market_open": false,
+  "total_records_api": 375,
+  "total_articles_rss": 3,
+  "analisis_return": [
+    {
+      "symbol": "ASII",
+      "harga_awal": 5975.0,
+      "harga_akhir": 5975.0,
+      "return_pct": 0.0,
+      "selisih_rp": 0.0,
+      "waktu_awal": "2026-05-03 08:15:58.931700",
+      "waktu_akhir": "2026-05-03 09:30:52.773903"
+    },
+    {
+      "symbol": "BBCA",
+      "harga_awal": 5850.0,
+      "harga_akhir": 5850.0,
+      "return_pct": 0.0,
+      "selisih_rp": 0.0,
+      "waktu_awal": "2026-05-03 08:15:58.531647",
+      "waktu_akhir": "2026-05-03 09:30:52.385136"
+    },
+    {
+      "symbol": "BMRI",
+      "harga_awal": 4390.0,
+      "harga_akhir": 4390.0,
+      "return_pct": 0.0,
+      "selisih_rp": 0.0,
+      "waktu_awal": "2026-05-03 08:15:59.070103",
+      "waktu_akhir": "2026-05-03 09:30:52.898169"
+    },
+    {
+      "symbol": "BBRI",
+      "harga_awal": 2990.0,
+      "harga_akhir": 2990.0,
+      "return_pct": 0.0,
+      "selisih_rp": 0.0,
+      "waktu_awal": "2026-05-03 08:15:58.661821",
+      "waktu_akhir": "2026-05-03 09:30:52.523202"
+    },
+    {
+      "symbol": "TLKM",
+      "harga_awal": 2810.0,
+      "harga_akhir": 2810.0,
+      "return_pct": 0.0,
+      "selisih_rp": 0.0,
+      "waktu_awal": "2026-05-03 08:15:58.797445",
+      "waktu_akhir": "2026-05-03 09:30:52.650838"
+    }
+  ],
+  "analisis_volatilitas": [
+    {
+      "symbol": "ASII",
+      "jumlah_data_poin": 75,
+      "harga_rata_rata": 5975.0,
+      "harga_terendah": 5975.0,
+      "harga_tertinggi": 5975.0,
+      "range_harga": 0.0,
+      "stddev_harga": 0.0,
+      "cv_pct": 0.0
+    },
+    {
+      "symbol": "BBCA",
+      "jumlah_data_poin": 75,
+      "harga_rata_rata": 5850.0,
+      "harga_terendah": 5850.0,
+      "harga_tertinggi": 5850.0,
+      "range_harga": 0.0,
+      "stddev_harga": 0.0,
+      "cv_pct": 0.0
+    },
+    {
+      "symbol": "BMRI",
+      "jumlah_data_poin": 75,
+      "harga_rata_rata": 4390.0,
+      "harga_terendah": 4390.0,
+      "harga_tertinggi": 4390.0,
+      "range_harga": 0.0,
+      "stddev_harga": 0.0,
+      "cv_pct": 0.0
+    },
+    {
+      "symbol": "BBRI",
+      "jumlah_data_poin": 75,
+      "harga_rata_rata": 2990.0,
+      "harga_terendah": 2990.0,
+      "harga_tertinggi": 2990.0,
+      "range_harga": 0.0,
+      "stddev_harga": 0.0,
+      "cv_pct": 0.0
+    },
+    {
+      "symbol": "TLKM",
+      "jumlah_data_poin": 75,
+      "harga_rata_rata": 2810.0,
+      "harga_terendah": 2810.0,
+      "harga_tertinggi": 2810.0,
+      "range_harga": 0.0,
+      "stddev_harga": 0.0,
+      "cv_pct": 0.0
+    }
+  ],
+  "analisis_frekuensi": [
+    {
+      "keyword": "BCA",
+      "perusahaan": "Bank Central Asia",
+      "symbol": "BBCA",
+      "jumlah_sebutan": 0
+    },
+    {
+      "keyword": "BRI",
+      "perusahaan": "Bank Rakyat Indonesia",
+      "symbol": "BBRI",
+      "jumlah_sebutan": 0
+    },
+    {
+      "keyword": "Telkom",
+      "perusahaan": "Telkom Indonesia",
+      "symbol": "TLKM",
+      "jumlah_sebutan": 0
+    },
+    {
+      "keyword": "Astra",
+      "perusahaan": "Astra International",
+      "symbol": "ASII",
+      "jumlah_sebutan": 0
+    },
+    {
+      "keyword": "Mandiri",
+      "perusahaan": "Bank Mandiri",
+      "symbol": "BMRI",
+      "jumlah_sebutan": 0
+    }
+  ]
+}

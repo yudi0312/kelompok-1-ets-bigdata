@@ -1,5 +1,4 @@
 version: "3"
-
 services:
   namenode:
     image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
@@ -12,6 +11,8 @@ services:
       - "8020:8020"
     volumes:
       - namenode:/hadoop/dfs/name
+    networks:
+      - hadoop-net
 
   datanode:
     image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
@@ -27,7 +28,37 @@ services:
       - "9864:9864"             
     volumes:
       - datanode:/hadoop/dfs/data
+    networks:
+      - hadoop-net
+
+  spark-jupyter:
+    image: jupyter/pyspark-notebook:spark-3.3.0
+    container_name: spark-jupyter
+    hostname: spark-jupyter
+    environment:
+      - SPARK_OPTS=--master=local[*]
+      - HADOOP_CONF_DIR=/etc/hadoop
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:8020
+    ports:
+      - "8888:8888"   # Jupyter
+      - "4040:4040"   # Spark UI
+    volumes:
+      - ./spark:/home/jovyan/work          # folder spark/ di project kamu
+      - ./dashboard:/home/jovyan/dashboard # akses dashboard/data/ untuk spark_results.json
+    depends_on:
+      - namenode
+    networks:
+      - hadoop-net
+    command: >
+      bash -c "
+        pip install kafka-python &&
+        start-notebook.sh --NotebookApp.token='' --NotebookApp.password=''
+      "
 
 volumes:
   namenode:
   datanode:
+
+networks:
+  hadoop-net:
+    driver: bridge
