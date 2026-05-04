@@ -1,4 +1,4 @@
-# 📊 Panduan Menjalankan Dashboard  
+# Panduan Menjalankan Dashboard  
 ## SahamMeter Dashboard
 
 **Nama:** S. Farhan Baig  
