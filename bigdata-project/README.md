@@ -170,12 +170,13 @@ Dashboard melakukan **auto-refresh** setiap 60 detik.
 > Screenshot HDFS Namenode Web UI menampilkan status cluster Hadoop, kapasitas storage, dan file yang tersimpan di `/data/saham/`.
 
 ![alt text](image.png)
+![alt text](image-1.png)
 
 ### 2. Kafka Consumer Output
 
 > Screenshot terminal menunjukkan consumer berhasil membaca pesan dari Kafka topic `saham-api` dan `saham-rss`, lalu menyimpannya ke HDFS.
 
-*(Tambahkan screenshot Kafka consumer output di sini)*
+![alt text](image-2.png)
 
 ### 3. Dashboard Berjalan
 

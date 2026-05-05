@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-05 10:15:56",
+  "generated_at": "2026-05-05 12:11:30",
   "is_market_open": true,
-  "total_records_api": 305,
-  "total_articles_rss": 104,
+  "total_records_api": 415,
+  "total_articles_rss": 111,
   "analisis_return": [
     {
       "symbol": "ASII",
@@ -13,113 +13,113 @@
       "return_pct": -4.12,
       "selisih_rp": -250.0,
       "waktu_awal": "2026-05-05T00:59:47.645041+00:00",
-      "waktu_akhir": "2026-05-05T03:15:56.313862+00:00"
+      "waktu_akhir": "2026-05-05T05:11:30.252284+00:00"
     },
     {
       "symbol": "BBRI",
       "nama_perusahaan": "Bank Rakyat Indonesia",
       "sektor": "Perbankan",
       "harga_awal": 3040.0,
-      "harga_akhir": 3160.0,
-      "return_pct": 3.95,
-      "selisih_rp": 120.0,
+      "harga_akhir": 3150.0,
+      "return_pct": 3.62,
+      "selisih_rp": 110.0,
       "waktu_awal": "2026-05-05T00:59:46.624345+00:00",
-      "waktu_akhir": "2026-05-05T03:15:55.697036+00:00"
+      "waktu_akhir": "2026-05-05T05:11:29.893784+00:00"
     },
     {
       "symbol": "BMRI",
       "nama_perusahaan": "Bank Mandiri",
       "sektor": "Perbankan",
       "harga_awal": 4420.0,
-      "harga_akhir": 4550.0,
-      "return_pct": 2.94,
-      "selisih_rp": 130.0,
+      "harga_akhir": 4530.0,
+      "return_pct": 2.49,
+      "selisih_rp": 110.0,
       "waktu_awal": "2026-05-05T00:59:48.131547+00:00",
-      "waktu_akhir": "2026-05-05T03:15:56.563804+00:00"
+      "waktu_akhir": "2026-05-05T05:11:30.426238+00:00"
     },
     {
       "symbol": "BBCA",
       "nama_perusahaan": "Bank Central Asia",
       "sektor": "Perbankan",
       "harga_awal": 5900.0,
-      "harga_akhir": 6050.0,
-      "return_pct": 2.54,
-      "selisih_rp": 150.0,
+      "harga_akhir": 6025.0,
+      "return_pct": 2.12,
+      "selisih_rp": 125.0,
       "waktu_awal": "2026-05-05T00:59:46.111708+00:00",
-      "waktu_akhir": "2026-05-05T03:15:55.452576+00:00"
+      "waktu_akhir": "2026-05-05T05:11:29.735769+00:00"
     },
     {
       "symbol": "TLKM",
       "nama_perusahaan": "Telkom Indonesia",
       "sektor": "Telekomunikasi",
       "harga_awal": 2890.0,
-      "harga_akhir": 2900.0,
-      "return_pct": 0.35,
-      "selisih_rp": 10.0,
+      "harga_akhir": 2890.0,
+      "return_pct": 0.0,
+      "selisih_rp": 0.0,
       "waktu_awal": "2026-05-05T00:59:47.143306+00:00",
-      "waktu_akhir": "2026-05-05T03:15:55.998682+00:00"
+      "waktu_akhir": "2026-05-05T05:11:30.069859+00:00"
     }
   ],
   "analisis_volatilitas": [
     {
-      "symbol": "ASII",
-      "nama_perusahaan": "Astra International",
-      "sektor": "Otomotif",
-      "jumlah_data_poin": 61,
-      "harga_rata_rata": 5826.0,
-      "harga_terendah": 5775.0,
-      "harga_tertinggi": 6075.0,
-      "range_harga": 300.0,
-      "stddev_harga": 58.4,
-      "cv_pct": 1.0023
-    },
-    {
       "symbol": "BBRI",
       "nama_perusahaan": "Bank Rakyat Indonesia",
       "sektor": "Perbankan",
-      "jumlah_data_poin": 61,
-      "harga_rata_rata": 3139.0,
+      "jumlah_data_poin": 83,
+      "harga_rata_rata": 3146.0,
       "harga_terendah": 3040.0,
       "harga_tertinggi": 3170.0,
       "range_harga": 130.0,
-      "stddev_harga": 29.4,
-      "cv_pct": 0.9367
+      "stddev_harga": 27.74,
+      "cv_pct": 0.8818
     },
     {
       "symbol": "BMRI",
       "nama_perusahaan": "Bank Mandiri",
       "sektor": "Perbankan",
-      "jumlah_data_poin": 61,
-      "harga_rata_rata": 4498.0,
+      "jumlah_data_poin": 83,
+      "harga_rata_rata": 4510.0,
       "harga_terendah": 4420.0,
       "harga_tertinggi": 4560.0,
       "range_harga": 140.0,
-      "stddev_harga": 39.87,
-      "cv_pct": 0.8864
+      "stddev_harga": 39.7,
+      "cv_pct": 0.8802
+    },
+    {
+      "symbol": "ASII",
+      "nama_perusahaan": "Astra International",
+      "sektor": "Otomotif",
+      "jumlah_data_poin": 83,
+      "harga_rata_rata": 5826.0,
+      "harga_terendah": 5775.0,
+      "harga_tertinggi": 6075.0,
+      "range_harga": 300.0,
+      "stddev_harga": 50.45,
+      "cv_pct": 0.8659
     },
     {
       "symbol": "BBCA",
       "nama_perusahaan": "Bank Central Asia",
       "sektor": "Perbankan",
-      "jumlah_data_poin": 61,
-      "harga_rata_rata": 6016.0,
+      "jumlah_data_poin": 83,
+      "harga_rata_rata": 6026.0,
       "harga_terendah": 5900.0,
       "harga_tertinggi": 6075.0,
       "range_harga": 175.0,
-      "stddev_harga": 47.3,
-      "cv_pct": 0.7862
+      "stddev_harga": 44.83,
+      "cv_pct": 0.744
     },
     {
       "symbol": "TLKM",
       "nama_perusahaan": "Telkom Indonesia",
       "sektor": "Telekomunikasi",
-      "jumlah_data_poin": 61,
-      "harga_rata_rata": 2908.0,
+      "jumlah_data_poin": 83,
+      "harga_rata_rata": 2907.0,
       "harga_terendah": 2890.0,
       "harga_tertinggi": 2930.0,
       "range_harga": 40.0,
-      "stddev_harga": 11.43,
-      "cv_pct": 0.3929
+      "stddev_harga": 10.4,
+      "cv_pct": 0.3575
     }
   ],
   "analisis_frekuensi": [
