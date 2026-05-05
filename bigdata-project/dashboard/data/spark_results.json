@@ -1,137 +1,264 @@
 {
-  "generated_at": "2026-05-03 03:45:37",
-  "is_market_open": false,
-  "total_records_api": 375,
-  "total_articles_rss": 3,
+  "generated_at": "2026-05-05 10:15:56",
+  "is_market_open": true,
+  "total_records_api": 305,
+  "total_articles_rss": 104,
   "analisis_return": [
     {
       "symbol": "ASII",
-      "harga_awal": 5975.0,
-      "harga_akhir": 5975.0,
-      "return_pct": 0.0,
-      "selisih_rp": 0.0,
-      "waktu_awal": "2026-05-03 08:15:58.931700",
-      "waktu_akhir": "2026-05-03 09:30:52.773903"
-    },
-    {
-      "symbol": "BBCA",
-      "harga_awal": 5850.0,
-      "harga_akhir": 5850.0,
-      "return_pct": 0.0,
-      "selisih_rp": 0.0,
-      "waktu_awal": "2026-05-03 08:15:58.531647",
-      "waktu_akhir": "2026-05-03 09:30:52.385136"
-    },
-    {
-      "symbol": "BMRI",
-      "harga_awal": 4390.0,
-      "harga_akhir": 4390.0,
-      "return_pct": 0.0,
-      "selisih_rp": 0.0,
-      "waktu_awal": "2026-05-03 08:15:59.070103",
-      "waktu_akhir": "2026-05-03 09:30:52.898169"
+      "nama_perusahaan": "Astra International",
+      "sektor": "Otomotif",
+      "harga_awal": 6075.0,
+      "harga_akhir": 5825.0,
+      "return_pct": -4.12,
+      "selisih_rp": -250.0,
+      "waktu_awal": "2026-05-05T00:59:47.645041+00:00",
+      "waktu_akhir": "2026-05-05T03:15:56.313862+00:00"
     },
     {
       "symbol": "BBRI",
-      "harga_awal": 2990.0,
-      "harga_akhir": 2990.0,
-      "return_pct": 0.0,
-      "selisih_rp": 0.0,
-      "waktu_awal": "2026-05-03 08:15:58.661821",
-      "waktu_akhir": "2026-05-03 09:30:52.523202"
+      "nama_perusahaan": "Bank Rakyat Indonesia",
+      "sektor": "Perbankan",
+      "harga_awal": 3040.0,
+      "harga_akhir": 3160.0,
+      "return_pct": 3.95,
+      "selisih_rp": 120.0,
+      "waktu_awal": "2026-05-05T00:59:46.624345+00:00",
+      "waktu_akhir": "2026-05-05T03:15:55.697036+00:00"
+    },
+    {
+      "symbol": "BMRI",
+      "nama_perusahaan": "Bank Mandiri",
+      "sektor": "Perbankan",
+      "harga_awal": 4420.0,
+      "harga_akhir": 4550.0,
+      "return_pct": 2.94,
+      "selisih_rp": 130.0,
+      "waktu_awal": "2026-05-05T00:59:48.131547+00:00",
+      "waktu_akhir": "2026-05-05T03:15:56.563804+00:00"
+    },
+    {
+      "symbol": "BBCA",
+      "nama_perusahaan": "Bank Central Asia",
+      "sektor": "Perbankan",
+      "harga_awal": 5900.0,
+      "harga_akhir": 6050.0,
+      "return_pct": 2.54,
+      "selisih_rp": 150.0,
+      "waktu_awal": "2026-05-05T00:59:46.111708+00:00",
+      "waktu_akhir": "2026-05-05T03:15:55.452576+00:00"
     },
     {
       "symbol": "TLKM",
-      "harga_awal": 2810.0,
-      "harga_akhir": 2810.0,
-      "return_pct": 0.0,
-      "selisih_rp": 0.0,
-      "waktu_awal": "2026-05-03 08:15:58.797445",
-      "waktu_akhir": "2026-05-03 09:30:52.650838"
+      "nama_perusahaan": "Telkom Indonesia",
+      "sektor": "Telekomunikasi",
+      "harga_awal": 2890.0,
+      "harga_akhir": 2900.0,
+      "return_pct": 0.35,
+      "selisih_rp": 10.0,
+      "waktu_awal": "2026-05-05T00:59:47.143306+00:00",
+      "waktu_akhir": "2026-05-05T03:15:55.998682+00:00"
     }
   ],
   "analisis_volatilitas": [
     {
       "symbol": "ASII",
-      "jumlah_data_poin": 75,
-      "harga_rata_rata": 5975.0,
-      "harga_terendah": 5975.0,
-      "harga_tertinggi": 5975.0,
-      "range_harga": 0.0,
-      "stddev_harga": 0.0,
-      "cv_pct": 0.0
-    },
-    {
-      "symbol": "BBCA",
-      "jumlah_data_poin": 75,
-      "harga_rata_rata": 5850.0,
-      "harga_terendah": 5850.0,
-      "harga_tertinggi": 5850.0,
-      "range_harga": 0.0,
-      "stddev_harga": 0.0,
-      "cv_pct": 0.0
-    },
-    {
-      "symbol": "BMRI",
-      "jumlah_data_poin": 75,
-      "harga_rata_rata": 4390.0,
-      "harga_terendah": 4390.0,
-      "harga_tertinggi": 4390.0,
-      "range_harga": 0.0,
-      "stddev_harga": 0.0,
-      "cv_pct": 0.0
+      "nama_perusahaan": "Astra International",
+      "sektor": "Otomotif",
+      "jumlah_data_poin": 61,
+      "harga_rata_rata": 5826.0,
+      "harga_terendah": 5775.0,
+      "harga_tertinggi": 6075.0,
+      "range_harga": 300.0,
+      "stddev_harga": 58.4,
+      "cv_pct": 1.0023
     },
     {
       "symbol": "BBRI",
-      "jumlah_data_poin": 75,
-      "harga_rata_rata": 2990.0,
-      "harga_terendah": 2990.0,
-      "harga_tertinggi": 2990.0,
-      "range_harga": 0.0,
-      "stddev_harga": 0.0,
-      "cv_pct": 0.0
+      "nama_perusahaan": "Bank Rakyat Indonesia",
+      "sektor": "Perbankan",
+      "jumlah_data_poin": 61,
+      "harga_rata_rata": 3139.0,
+      "harga_terendah": 3040.0,
+      "harga_tertinggi": 3170.0,
+      "range_harga": 130.0,
+      "stddev_harga": 29.4,
+      "cv_pct": 0.9367
+    },
+    {
+      "symbol": "BMRI",
+      "nama_perusahaan": "Bank Mandiri",
+      "sektor": "Perbankan",
+      "jumlah_data_poin": 61,
+      "harga_rata_rata": 4498.0,
+      "harga_terendah": 4420.0,
+      "harga_tertinggi": 4560.0,
+      "range_harga": 140.0,
+      "stddev_harga": 39.87,
+      "cv_pct": 0.8864
+    },
+    {
+      "symbol": "BBCA",
+      "nama_perusahaan": "Bank Central Asia",
+      "sektor": "Perbankan",
+      "jumlah_data_poin": 61,
+      "harga_rata_rata": 6016.0,
+      "harga_terendah": 5900.0,
+      "harga_tertinggi": 6075.0,
+      "range_harga": 175.0,
+      "stddev_harga": 47.3,
+      "cv_pct": 0.7862
     },
     {
       "symbol": "TLKM",
-      "jumlah_data_poin": 75,
-      "harga_rata_rata": 2810.0,
-      "harga_terendah": 2810.0,
-      "harga_tertinggi": 2810.0,
-      "range_harga": 0.0,
-      "stddev_harga": 0.0,
-      "cv_pct": 0.0
+      "nama_perusahaan": "Telkom Indonesia",
+      "sektor": "Telekomunikasi",
+      "jumlah_data_poin": 61,
+      "harga_rata_rata": 2908.0,
+      "harga_terendah": 2890.0,
+      "harga_tertinggi": 2930.0,
+      "range_harga": 40.0,
+      "stddev_harga": 11.43,
+      "cv_pct": 0.3929
     }
   ],
   "analisis_frekuensi": [
     {
-      "keyword": "BCA",
-      "perusahaan": "Bank Central Asia",
-      "symbol": "BBCA",
-      "jumlah_sebutan": 0
-    },
-    {
       "keyword": "BRI",
       "perusahaan": "Bank Rakyat Indonesia",
       "symbol": "BBRI",
+      "nama_perusahaan": "Bank Rakyat Indonesia",
+      "sektor": "Perbankan",
+      "jumlah_sebutan": 3
+    },
+    {
+      "keyword": "BCA",
+      "perusahaan": "Bank Central Asia",
+      "symbol": "BBCA",
+      "nama_perusahaan": "Bank Central Asia",
+      "sektor": "Perbankan",
       "jumlah_sebutan": 0
     },
     {
       "keyword": "Telkom",
       "perusahaan": "Telkom Indonesia",
       "symbol": "TLKM",
+      "nama_perusahaan": "Telkom Indonesia",
+      "sektor": "Telekomunikasi",
       "jumlah_sebutan": 0
     },
     {
       "keyword": "Astra",
       "perusahaan": "Astra International",
       "symbol": "ASII",
+      "nama_perusahaan": "Astra International",
+      "sektor": "Otomotif",
       "jumlah_sebutan": 0
     },
     {
       "keyword": "Mandiri",
       "perusahaan": "Bank Mandiri",
       "symbol": "BMRI",
+      "nama_perusahaan": "Bank Mandiri",
+      "sektor": "Perbankan",
       "jumlah_sebutan": 0
     }
-  ]
+  ],
+  "berita": [
+    {
+      "judul": "Impor Emas RI dari Australia Melesat 469 Persen",
+      "sumber": "CNN Indonesia",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260505074044-532-1355115/impor-emas-ri-dari-australia-melesat-469-persen",
+      "waktu_publikasi": "Tue, 05 May 2026 07:55:44 +0700",
+      "ringkasan": "BPS melaporkan impor emas dan perhiasan dari Australia melesat hingga 469 persen pada periode Januari-Maret 2026 dibandingkan tahun lalu.",
+      "hash": "73719813",
+      "keyword_terdeteksi": []
+    },
+    {
+      "judul": "AHY: Pembangunan Tanggul Laut Pantura untuk Jaga Produksi Pangan",
+      "sumber": "CNN Indonesia",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260505070235-92-1355094/ahy-pembangunan-tanggul-laut-pantura-untuk-jaga-produksi-pangan",
+      "waktu_publikasi": "Tue, 05 May 2026 07:25:01 +0700",
+      "ringkasan": "AHY mengatakan pembangunan tanggul laut Pantura tak demi melindungi sentra-sentra industri, tetapi juga sentra pangan yang banyak terdapat di daerah itu.",
+      "hash": "fbd4af3c",
+      "keyword_terdeteksi": []
+    },
+    {
+      "judul": "Purbaya: Inflasi April Terkendali Berkat Subsidi BBM",
+      "sumber": "CNN Indonesia",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260504205329-532-1355059/purbaya-inflasi-april-terkendali-berkat-subsidi-bbm",
+      "waktu_publikasi": "Tue, 05 May 2026 06:55:40 +0700",
+      "ringkasan": "Menkeu Purbaya menilai inflasi pada April 2026 masih terkendali berkat kebijakan pemerintah yang mempertahankan subsidi energi di tengah gejolak global.",
+      "hash": "d46ca59c",
+      "keyword_terdeteksi": []
+    },
+    {
+      "judul": "IHSG Diramal Merah Hari Ini",
+      "sumber": "CNN Indonesia",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260505061903-92-1355084/ihsg-diramal-merah-hari-ini",
+      "waktu_publikasi": "Tue, 05 May 2026 06:25:07 +0700",
+      "ringkasan": "Analis memperkirakan IHSG masih bergerak terbatas dan belum lepas dari tekanan selama belum mampu menembus resistance krusial 7.126.",
+      "hash": "fe2316aa",
+      "keyword_terdeteksi": []
+    },
+    {
+      "judul": "Pemerintah Awasi Ketat Barang Impor, Produk Non-halal Wajib Berlabel",
+      "sumber": "CNN Indonesia",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260504201933-92-1355047/pemerintah-awasi-ketat-barang-impor-produk-non-halal-wajib-berlabel",
+      "waktu_publikasi": "Tue, 05 May 2026 05:30:27 +0700",
+      "ringkasan": "Pemerintah memperketat pengawasan produk impor guna mencegah beredarnya barang non-halal di dalam negeri.",
+      "hash": "01972bad",
+      "keyword_terdeteksi": []
+    },
+    {
+      "judul": "DKI Gandeng Danantara Bangun Dua Pembangkit Tenaga Sampah di Jakarta",
+      "sumber": "CNN Indonesia",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260504123603-85-1354835/dki-gandeng-danantara-bangun-dua-pembangkit-tenaga-sampah-di-jakarta",
+      "waktu_publikasi": "Tue, 05 May 2026 03:45:15 +0700",
+      "ringkasan": "Pemprov DKI Jakarta resmi menggandeng Danantara untuk membangun dua Pembangkit Listrik Tenaga Sampah (PLTSa) baru guna menuntaskan persoalan sampah di ibu kota.",
+      "hash": "9ebe22af",
+      "keyword_terdeteksi": []
+    },
+    {
+      "judul": "BRI Peduli Beri Bantuan Proyektor dan Alat Tulis ke SD di Bandung",
+      "sumber": "CNN Indonesia",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260504225434-625-1355074/bri-peduli-beri-bantuan-proyektor-dan-alat-tulis-ke-sd-di-bandung",
+      "waktu_publikasi": "Mon, 04 May 2026 23:17:18 +0700",
+      "ringkasan": "BRI Peduli merayakan Hardiknas 2026 dengan program \"Ini Sekolahku\" di SDN 104 Langensari, mendukung pendidikan melalui renovasi dan kegiatan edukatif.",
+      "hash": "4c87d91f",
+      "keyword_terdeteksi": [
+        "BRI"
+      ]
+    },
+    {
+      "judul": "Bank Mega Syariah Raup Laba Rp79,9 M Kuartal I 2026",
+      "sumber": "CNN Indonesia",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260504131121-78-1354843/bank-mega-syariah-raup-laba-rp799-m-kuartal-i-2026",
+      "waktu_publikasi": "Mon, 04 May 2026 21:30:43 +0700",
+      "ringkasan": "Bank Mega Syariah mencatatkan kinerja positif pada kuartal I 2026. Raupan laba mencapai Rp79,97 miliar atau melesat 51 persen (yoy).",
+      "hash": "2c8fcc13",
+      "keyword_terdeteksi": []
+    },
+    {
+      "judul": "Purbaya Blak-blakan soal Sumber Gaji Manajer Kopdes Merah Putih",
+      "sumber": "CNN Indonesia",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260504210157-532-1355061/purbaya-blak-blakan-soal-sumber-gaji-manajer-kopdes-merah-putih",
+      "waktu_publikasi": "Mon, 04 May 2026 21:08:10 +0700",
+      "ringkasan": "Menteri Keuangan (Menkeu) Purbaya Yudhi Sadewa mengungkap sumber pembiayaan gaji 30 ribu manajer Koperasi Desa (Kopdes) Merah Putih.",
+      "hash": "a14611bc",
+      "keyword_terdeteksi": []
+    },
+    {
+      "judul": "Wamen ESDM Angkat Suara soal Harga BBM Diesel Tembus Rp30 Ribu",
+      "sumber": "CNN Indonesia",
+      "url": "https://www.cnnindonesia.com/ekonomi/20260504204514-85-1355056/wamen-esdm-angkat-suara-soal-harga-bbm-diesel-tembus-rp30-ribu",
+      "waktu_publikasi": "Mon, 04 May 2026 20:53:06 +0700",
+      "ringkasan": "Kementerian ESDM buka suara soal harga bahan bakar diesel yang kini sudah menembus Rp30 ribu per liter di sejumlah SPBU swasta.",
+      "hash": "0b8e5545",
+      "keyword_terdeteksi": []
+    }
+  ],
+  "_sumber": "lokal -> local_analysis.py (fallback, HDFS tidak tersedia)",
+  "_sumber_api": "lokal (live_api.json)",
+  "_sumber_rss": "lokal (live_rss.json)"
 }

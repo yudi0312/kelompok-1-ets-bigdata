@@ -1,0 +1,2442 @@
+[
+  {
+    "symbol": "BBCA",
+    "price": 5900.0,
+    "currency": "IDR",
+    "volume": 207566700,
+    "timestamp": "2026-05-05T00:59:46.111708+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3040.0,
+    "currency": "IDR",
+    "volume": 190480000,
+    "timestamp": "2026-05-05T00:59:46.624345+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2890.0,
+    "currency": "IDR",
+    "volume": 81120300,
+    "timestamp": "2026-05-05T00:59:47.143306+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 6075.0,
+    "currency": "IDR",
+    "volume": 33999000,
+    "timestamp": "2026-05-05T00:59:47.645041+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4420.0,
+    "currency": "IDR",
+    "volume": 166294600,
+    "timestamp": "2026-05-05T00:59:48.131547+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 5900.0,
+    "currency": "IDR",
+    "volume": 207566700,
+    "timestamp": "2026-05-05T01:00:48.526189+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3040.0,
+    "currency": "IDR",
+    "volume": 190480000,
+    "timestamp": "2026-05-05T01:00:48.787533+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2890.0,
+    "currency": "IDR",
+    "volume": 81120300,
+    "timestamp": "2026-05-05T01:00:49.006813+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 6075.0,
+    "currency": "IDR",
+    "volume": 33999000,
+    "timestamp": "2026-05-05T01:00:49.282103+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4420.0,
+    "currency": "IDR",
+    "volume": 166294600,
+    "timestamp": "2026-05-05T01:00:49.618750+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 5900.0,
+    "currency": "IDR",
+    "volume": 207566700,
+    "timestamp": "2026-05-05T01:01:50.332835+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3040.0,
+    "currency": "IDR",
+    "volume": 190480000,
+    "timestamp": "2026-05-05T01:01:50.795944+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2890.0,
+    "currency": "IDR",
+    "volume": 81120300,
+    "timestamp": "2026-05-05T01:01:51.353304+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 6075.0,
+    "currency": "IDR",
+    "volume": 33999000,
+    "timestamp": "2026-05-05T01:01:51.732274+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4420.0,
+    "currency": "IDR",
+    "volume": 166294600,
+    "timestamp": "2026-05-05T01:01:52.108643+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 5975.0,
+    "currency": "IDR",
+    "volume": 16107200,
+    "timestamp": "2026-05-05T02:16:36.400108+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3100.0,
+    "currency": "IDR",
+    "volume": 41315000,
+    "timestamp": "2026-05-05T02:16:36.923451+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2900.0,
+    "currency": "IDR",
+    "volume": 2227100,
+    "timestamp": "2026-05-05T02:16:37.105824+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5800.0,
+    "currency": "IDR",
+    "volume": 4299000,
+    "timestamp": "2026-05-05T02:16:37.301677+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4440.0,
+    "currency": "IDR",
+    "volume": 9022700,
+    "timestamp": "2026-05-05T02:16:37.489364+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 5975.0,
+    "currency": "IDR",
+    "volume": 16319200,
+    "timestamp": "2026-05-05T02:17:41.052242+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3110.0,
+    "currency": "IDR",
+    "volume": 48050800,
+    "timestamp": "2026-05-05T02:17:41.298680+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2890.0,
+    "currency": "IDR",
+    "volume": 2279300,
+    "timestamp": "2026-05-05T02:17:41.512327+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5775.0,
+    "currency": "IDR",
+    "volume": 4374200,
+    "timestamp": "2026-05-05T02:17:41.786058+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4450.0,
+    "currency": "IDR",
+    "volume": 10961500,
+    "timestamp": "2026-05-05T02:17:41.980023+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 5950.0,
+    "currency": "IDR",
+    "volume": 16821800,
+    "timestamp": "2026-05-05T02:18:42.971518+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3110.0,
+    "currency": "IDR",
+    "volume": 53656300,
+    "timestamp": "2026-05-05T02:18:43.581600+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2900.0,
+    "currency": "IDR",
+    "volume": 2338600,
+    "timestamp": "2026-05-05T02:18:43.758336+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5800.0,
+    "currency": "IDR",
+    "volume": 5039800,
+    "timestamp": "2026-05-05T02:18:43.975965+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4450.0,
+    "currency": "IDR",
+    "volume": 13736700,
+    "timestamp": "2026-05-05T02:18:44.565986+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 5975.0,
+    "currency": "IDR",
+    "volume": 17226200,
+    "timestamp": "2026-05-05T02:19:45.464269+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3110.0,
+    "currency": "IDR",
+    "volume": 54465100,
+    "timestamp": "2026-05-05T02:19:45.856263+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2900.0,
+    "currency": "IDR",
+    "volume": 2378600,
+    "timestamp": "2026-05-05T02:19:46.276426+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5800.0,
+    "currency": "IDR",
+    "volume": 5319300,
+    "timestamp": "2026-05-05T02:19:47.204719+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4450.0,
+    "currency": "IDR",
+    "volume": 13946100,
+    "timestamp": "2026-05-05T02:19:47.381157+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 5975.0,
+    "currency": "IDR",
+    "volume": 17839100,
+    "timestamp": "2026-05-05T02:20:48.349023+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3120.0,
+    "currency": "IDR",
+    "volume": 57085300,
+    "timestamp": "2026-05-05T02:20:48.542381+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2920.0,
+    "currency": "IDR",
+    "volume": 3359500,
+    "timestamp": "2026-05-05T02:20:48.745494+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5800.0,
+    "currency": "IDR",
+    "volume": 5455700,
+    "timestamp": "2026-05-05T02:20:48.946565+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4460.0,
+    "currency": "IDR",
+    "volume": 14226000,
+    "timestamp": "2026-05-05T02:20:49.158542+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 5950.0,
+    "currency": "IDR",
+    "volume": 18266300,
+    "timestamp": "2026-05-05T02:21:50.692959+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3110.0,
+    "currency": "IDR",
+    "volume": 59029600,
+    "timestamp": "2026-05-05T02:21:51.316134+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2920.0,
+    "currency": "IDR",
+    "volume": 3404300,
+    "timestamp": "2026-05-05T02:21:52.110189+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5800.0,
+    "currency": "IDR",
+    "volume": 5533900,
+    "timestamp": "2026-05-05T02:21:52.662401+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4460.0,
+    "currency": "IDR",
+    "volume": 14721300,
+    "timestamp": "2026-05-05T02:21:53.253631+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 5950.0,
+    "currency": "IDR",
+    "volume": 18455900,
+    "timestamp": "2026-05-05T02:22:54.620325+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3110.0,
+    "currency": "IDR",
+    "volume": 59746100,
+    "timestamp": "2026-05-05T02:22:55.316587+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2920.0,
+    "currency": "IDR",
+    "volume": 3524000,
+    "timestamp": "2026-05-05T02:22:55.927333+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5775.0,
+    "currency": "IDR",
+    "volume": 5667900,
+    "timestamp": "2026-05-05T02:22:56.652570+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4450.0,
+    "currency": "IDR",
+    "volume": 15011700,
+    "timestamp": "2026-05-05T02:22:56.853166+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 5975.0,
+    "currency": "IDR",
+    "volume": 18957000,
+    "timestamp": "2026-05-05T02:23:57.965344+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3110.0,
+    "currency": "IDR",
+    "volume": 61008200,
+    "timestamp": "2026-05-05T02:23:58.183286+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2910.0,
+    "currency": "IDR",
+    "volume": 3606800,
+    "timestamp": "2026-05-05T02:23:58.604709+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 7291800,
+    "timestamp": "2026-05-05T02:23:59.174075+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4460.0,
+    "currency": "IDR",
+    "volume": 15323900,
+    "timestamp": "2026-05-05T02:23:59.874644+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 5950.0,
+    "currency": "IDR",
+    "volume": 19347700,
+    "timestamp": "2026-05-05T02:25:01.697200+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3110.0,
+    "currency": "IDR",
+    "volume": 62540700,
+    "timestamp": "2026-05-05T02:25:01.946276+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2920.0,
+    "currency": "IDR",
+    "volume": 3651300,
+    "timestamp": "2026-05-05T02:25:02.167754+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5800.0,
+    "currency": "IDR",
+    "volume": 7851000,
+    "timestamp": "2026-05-05T02:25:02.557838+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4450.0,
+    "currency": "IDR",
+    "volume": 15530600,
+    "timestamp": "2026-05-05T02:25:02.909541+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 5975.0,
+    "currency": "IDR",
+    "volume": 20828800,
+    "timestamp": "2026-05-05T02:26:03.818245+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3110.0,
+    "currency": "IDR",
+    "volume": 64671400,
+    "timestamp": "2026-05-05T02:26:04.469455+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2910.0,
+    "currency": "IDR",
+    "volume": 3692200,
+    "timestamp": "2026-05-05T02:26:05.244990+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5775.0,
+    "currency": "IDR",
+    "volume": 7864500,
+    "timestamp": "2026-05-05T02:26:05.966975+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4460.0,
+    "currency": "IDR",
+    "volume": 15644800,
+    "timestamp": "2026-05-05T02:26:06.477561+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 5975.0,
+    "currency": "IDR",
+    "volume": 21020100,
+    "timestamp": "2026-05-05T02:27:07.924203+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3110.0,
+    "currency": "IDR",
+    "volume": 66398800,
+    "timestamp": "2026-05-05T02:27:08.352828+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2920.0,
+    "currency": "IDR",
+    "volume": 3737300,
+    "timestamp": "2026-05-05T02:27:08.945294+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5800.0,
+    "currency": "IDR",
+    "volume": 7888700,
+    "timestamp": "2026-05-05T02:27:09.630048+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4450.0,
+    "currency": "IDR",
+    "volume": 15847100,
+    "timestamp": "2026-05-05T02:27:10.048796+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 5950.0,
+    "currency": "IDR",
+    "volume": 21453700,
+    "timestamp": "2026-05-05T02:28:11.343412+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3140.0,
+    "currency": "IDR",
+    "volume": 74265100,
+    "timestamp": "2026-05-05T02:28:11.827389+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2920.0,
+    "currency": "IDR",
+    "volume": 3828100,
+    "timestamp": "2026-05-05T02:28:12.344250+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 9313400,
+    "timestamp": "2026-05-05T02:28:12.970610+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4460.0,
+    "currency": "IDR",
+    "volume": 16330700,
+    "timestamp": "2026-05-05T02:28:13.587783+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 5950.0,
+    "currency": "IDR",
+    "volume": 21713700,
+    "timestamp": "2026-05-05T02:29:14.643357+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3130.0,
+    "currency": "IDR",
+    "volume": 75022100,
+    "timestamp": "2026-05-05T02:29:14.841317+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2920.0,
+    "currency": "IDR",
+    "volume": 3872200,
+    "timestamp": "2026-05-05T02:29:15.649218+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 9335700,
+    "timestamp": "2026-05-05T02:29:16.164618+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4460.0,
+    "currency": "IDR",
+    "volume": 16943500,
+    "timestamp": "2026-05-05T02:29:16.360360+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 5975.0,
+    "currency": "IDR",
+    "volume": 22008900,
+    "timestamp": "2026-05-05T02:30:17.576450+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3140.0,
+    "currency": "IDR",
+    "volume": 76340300,
+    "timestamp": "2026-05-05T02:30:17.792782+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2920.0,
+    "currency": "IDR",
+    "volume": 3912000,
+    "timestamp": "2026-05-05T02:30:18.513263+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5800.0,
+    "currency": "IDR",
+    "volume": 9594500,
+    "timestamp": "2026-05-05T02:30:18.701715+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4470.0,
+    "currency": "IDR",
+    "volume": 27197000,
+    "timestamp": "2026-05-05T02:30:19.122226+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 5975.0,
+    "currency": "IDR",
+    "volume": 22378100,
+    "timestamp": "2026-05-05T02:31:20.114584+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3140.0,
+    "currency": "IDR",
+    "volume": 78550600,
+    "timestamp": "2026-05-05T02:31:20.344128+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2920.0,
+    "currency": "IDR",
+    "volume": 3961500,
+    "timestamp": "2026-05-05T02:31:20.523526+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5800.0,
+    "currency": "IDR",
+    "volume": 9608800,
+    "timestamp": "2026-05-05T02:31:20.758869+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4480.0,
+    "currency": "IDR",
+    "volume": 28208100,
+    "timestamp": "2026-05-05T02:31:20.956920+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 5975.0,
+    "currency": "IDR",
+    "volume": 23041000,
+    "timestamp": "2026-05-05T02:32:21.847949+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3150.0,
+    "currency": "IDR",
+    "volume": 79616600,
+    "timestamp": "2026-05-05T02:32:22.303423+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2920.0,
+    "currency": "IDR",
+    "volume": 4122400,
+    "timestamp": "2026-05-05T02:32:22.575238+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5800.0,
+    "currency": "IDR",
+    "volume": 9749000,
+    "timestamp": "2026-05-05T02:32:22.796676+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4490.0,
+    "currency": "IDR",
+    "volume": 31263100,
+    "timestamp": "2026-05-05T02:32:23.428753+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 5975.0,
+    "currency": "IDR",
+    "volume": 25709500,
+    "timestamp": "2026-05-05T02:33:24.520183+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3150.0,
+    "currency": "IDR",
+    "volume": 80132200,
+    "timestamp": "2026-05-05T02:33:24.946860+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2930.0,
+    "currency": "IDR",
+    "volume": 4481200,
+    "timestamp": "2026-05-05T02:33:25.806965+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 11412600,
+    "timestamp": "2026-05-05T02:33:26.029712+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4480.0,
+    "currency": "IDR",
+    "volume": 32594000,
+    "timestamp": "2026-05-05T02:33:28.158629+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6000.0,
+    "currency": "IDR",
+    "volume": 31598700,
+    "timestamp": "2026-05-05T02:34:29.680587+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3140.0,
+    "currency": "IDR",
+    "volume": 82367100,
+    "timestamp": "2026-05-05T02:34:30.119194+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2920.0,
+    "currency": "IDR",
+    "volume": 4566300,
+    "timestamp": "2026-05-05T02:34:30.543459+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 11430500,
+    "timestamp": "2026-05-05T02:34:31.245429+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4480.0,
+    "currency": "IDR",
+    "volume": 33459400,
+    "timestamp": "2026-05-05T02:34:31.664866+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6000.0,
+    "currency": "IDR",
+    "volume": 34941400,
+    "timestamp": "2026-05-05T02:35:33.761437+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3140.0,
+    "currency": "IDR",
+    "volume": 83973000,
+    "timestamp": "2026-05-05T02:35:34.459177+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2930.0,
+    "currency": "IDR",
+    "volume": 5623800,
+    "timestamp": "2026-05-05T02:35:35.506042+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 11555100,
+    "timestamp": "2026-05-05T02:35:35.754248+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4480.0,
+    "currency": "IDR",
+    "volume": 35291800,
+    "timestamp": "2026-05-05T02:35:36.090997+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6025.0,
+    "currency": "IDR",
+    "volume": 35843000,
+    "timestamp": "2026-05-05T02:36:37.236621+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3140.0,
+    "currency": "IDR",
+    "volume": 84362900,
+    "timestamp": "2026-05-05T02:36:37.436159+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2930.0,
+    "currency": "IDR",
+    "volume": 6073300,
+    "timestamp": "2026-05-05T02:36:37.622586+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 11589700,
+    "timestamp": "2026-05-05T02:36:38.012377+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4480.0,
+    "currency": "IDR",
+    "volume": 35856600,
+    "timestamp": "2026-05-05T02:36:38.202346+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6025.0,
+    "currency": "IDR",
+    "volume": 36140100,
+    "timestamp": "2026-05-05T02:37:39.400725+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3140.0,
+    "currency": "IDR",
+    "volume": 84617700,
+    "timestamp": "2026-05-05T02:37:40.362877+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2920.0,
+    "currency": "IDR",
+    "volume": 7394100,
+    "timestamp": "2026-05-05T02:37:42.269067+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 12010400,
+    "timestamp": "2026-05-05T02:37:43.192725+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4480.0,
+    "currency": "IDR",
+    "volume": 36782800,
+    "timestamp": "2026-05-05T02:37:43.813386+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6025.0,
+    "currency": "IDR",
+    "volume": 36554600,
+    "timestamp": "2026-05-05T02:38:44.739203+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3130.0,
+    "currency": "IDR",
+    "volume": 85474300,
+    "timestamp": "2026-05-05T02:38:44.964699+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2920.0,
+    "currency": "IDR",
+    "volume": 7433400,
+    "timestamp": "2026-05-05T02:38:45.197784+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 12023600,
+    "timestamp": "2026-05-05T02:38:45.385056+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4480.0,
+    "currency": "IDR",
+    "volume": 37070000,
+    "timestamp": "2026-05-05T02:38:46.328299+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6025.0,
+    "currency": "IDR",
+    "volume": 36826200,
+    "timestamp": "2026-05-05T02:39:47.378208+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3130.0,
+    "currency": "IDR",
+    "volume": 85692700,
+    "timestamp": "2026-05-05T02:39:47.575752+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2920.0,
+    "currency": "IDR",
+    "volume": 7593200,
+    "timestamp": "2026-05-05T02:39:47.746441+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5800.0,
+    "currency": "IDR",
+    "volume": 12064700,
+    "timestamp": "2026-05-05T02:39:47.942578+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4480.0,
+    "currency": "IDR",
+    "volume": 37260500,
+    "timestamp": "2026-05-05T02:39:48.124269+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6025.0,
+    "currency": "IDR",
+    "volume": 37191200,
+    "timestamp": "2026-05-05T02:40:49.020345+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3140.0,
+    "currency": "IDR",
+    "volume": 85974500,
+    "timestamp": "2026-05-05T02:40:49.208364+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2920.0,
+    "currency": "IDR",
+    "volume": 7635300,
+    "timestamp": "2026-05-05T02:40:49.384616+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5800.0,
+    "currency": "IDR",
+    "volume": 12085700,
+    "timestamp": "2026-05-05T02:40:49.567765+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4470.0,
+    "currency": "IDR",
+    "volume": 37665200,
+    "timestamp": "2026-05-05T02:40:49.758370+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6025.0,
+    "currency": "IDR",
+    "volume": 37397400,
+    "timestamp": "2026-05-05T02:41:50.740485+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3140.0,
+    "currency": "IDR",
+    "volume": 86775700,
+    "timestamp": "2026-05-05T02:41:50.968418+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2920.0,
+    "currency": "IDR",
+    "volume": 7955500,
+    "timestamp": "2026-05-05T02:41:51.223621+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 12097100,
+    "timestamp": "2026-05-05T02:41:51.401240+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4480.0,
+    "currency": "IDR",
+    "volume": 37869400,
+    "timestamp": "2026-05-05T02:41:51.577503+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6000.0,
+    "currency": "IDR",
+    "volume": 37825500,
+    "timestamp": "2026-05-05T02:42:52.542647+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3130.0,
+    "currency": "IDR",
+    "volume": 86903600,
+    "timestamp": "2026-05-05T02:42:53.224393+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2910.0,
+    "currency": "IDR",
+    "volume": 7967900,
+    "timestamp": "2026-05-05T02:42:53.614157+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5800.0,
+    "currency": "IDR",
+    "volume": 12126900,
+    "timestamp": "2026-05-05T02:42:53.825874+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4470.0,
+    "currency": "IDR",
+    "volume": 37947000,
+    "timestamp": "2026-05-05T02:42:54.026538+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6025.0,
+    "currency": "IDR",
+    "volume": 39070200,
+    "timestamp": "2026-05-05T02:43:54.918165+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3140.0,
+    "currency": "IDR",
+    "volume": 90693800,
+    "timestamp": "2026-05-05T02:43:55.153502+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2920.0,
+    "currency": "IDR",
+    "volume": 7996300,
+    "timestamp": "2026-05-05T02:43:55.360281+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 12132500,
+    "timestamp": "2026-05-05T02:43:55.536265+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4470.0,
+    "currency": "IDR",
+    "volume": 38736400,
+    "timestamp": "2026-05-05T02:43:55.711628+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6050.0,
+    "currency": "IDR",
+    "volume": 41438200,
+    "timestamp": "2026-05-05T02:44:56.798028+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3150.0,
+    "currency": "IDR",
+    "volume": 94708600,
+    "timestamp": "2026-05-05T02:44:56.972121+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2900.0,
+    "currency": "IDR",
+    "volume": 9518800,
+    "timestamp": "2026-05-05T02:44:57.176327+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 12148300,
+    "timestamp": "2026-05-05T02:44:57.379783+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4500.0,
+    "currency": "IDR",
+    "volume": 42719600,
+    "timestamp": "2026-05-05T02:44:57.576783+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6050.0,
+    "currency": "IDR",
+    "volume": 41717500,
+    "timestamp": "2026-05-05T02:45:58.484195+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 95821600,
+    "timestamp": "2026-05-05T02:45:58.730462+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2910.0,
+    "currency": "IDR",
+    "volume": 9520600,
+    "timestamp": "2026-05-05T02:45:58.942961+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 12182600,
+    "timestamp": "2026-05-05T02:45:59.169406+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4500.0,
+    "currency": "IDR",
+    "volume": 43082300,
+    "timestamp": "2026-05-05T02:45:59.364688+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6050.0,
+    "currency": "IDR",
+    "volume": 46178300,
+    "timestamp": "2026-05-05T02:47:00.511881+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 96867300,
+    "timestamp": "2026-05-05T02:47:00.816584+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2900.0,
+    "currency": "IDR",
+    "volume": 10694400,
+    "timestamp": "2026-05-05T02:47:01.681086+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 12190900,
+    "timestamp": "2026-05-05T02:47:01.898416+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4500.0,
+    "currency": "IDR",
+    "volume": 46773100,
+    "timestamp": "2026-05-05T02:47:02.140440+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6075.0,
+    "currency": "IDR",
+    "volume": 46411500,
+    "timestamp": "2026-05-05T02:48:03.036046+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 98720000,
+    "timestamp": "2026-05-05T02:48:03.715617+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2910.0,
+    "currency": "IDR",
+    "volume": 10698000,
+    "timestamp": "2026-05-05T02:48:04.186880+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 12325100,
+    "timestamp": "2026-05-05T02:48:04.402907+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4530.0,
+    "currency": "IDR",
+    "volume": 48445100,
+    "timestamp": "2026-05-05T02:48:04.630763+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6075.0,
+    "currency": "IDR",
+    "volume": 46888600,
+    "timestamp": "2026-05-05T02:49:05.698758+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 102011500,
+    "timestamp": "2026-05-05T02:49:05.901715+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2900.0,
+    "currency": "IDR",
+    "volume": 10712800,
+    "timestamp": "2026-05-05T02:49:06.213760+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 12375200,
+    "timestamp": "2026-05-05T02:49:06.737206+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4520.0,
+    "currency": "IDR",
+    "volume": 54840500,
+    "timestamp": "2026-05-05T02:49:07.090088+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6075.0,
+    "currency": "IDR",
+    "volume": 47315700,
+    "timestamp": "2026-05-05T02:50:08.111586+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 102888700,
+    "timestamp": "2026-05-05T02:50:08.341422+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2910.0,
+    "currency": "IDR",
+    "volume": 10728500,
+    "timestamp": "2026-05-05T02:50:08.540249+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 12956900,
+    "timestamp": "2026-05-05T02:50:08.738516+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4510.0,
+    "currency": "IDR",
+    "volume": 55103500,
+    "timestamp": "2026-05-05T02:50:08.935596+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6075.0,
+    "currency": "IDR",
+    "volume": 48083900,
+    "timestamp": "2026-05-05T02:51:09.839581+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 103544900,
+    "timestamp": "2026-05-05T02:51:10.066446+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2910.0,
+    "currency": "IDR",
+    "volume": 10735400,
+    "timestamp": "2026-05-05T02:51:10.357767+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 13321500,
+    "timestamp": "2026-05-05T02:51:10.569430+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4520.0,
+    "currency": "IDR",
+    "volume": 55245800,
+    "timestamp": "2026-05-05T02:51:10.794218+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6075.0,
+    "currency": "IDR",
+    "volume": 48661400,
+    "timestamp": "2026-05-05T02:52:11.798631+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 104117000,
+    "timestamp": "2026-05-05T02:52:12.019597+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2910.0,
+    "currency": "IDR",
+    "volume": 10749300,
+    "timestamp": "2026-05-05T02:52:12.215438+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 13352400,
+    "timestamp": "2026-05-05T02:52:12.475841+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4510.0,
+    "currency": "IDR",
+    "volume": 55393300,
+    "timestamp": "2026-05-05T02:52:12.701168+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6075.0,
+    "currency": "IDR",
+    "volume": 48849600,
+    "timestamp": "2026-05-05T02:53:13.620409+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 104381500,
+    "timestamp": "2026-05-05T02:53:13.847151+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2910.0,
+    "currency": "IDR",
+    "volume": 10758600,
+    "timestamp": "2026-05-05T02:53:14.048071+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 13365300,
+    "timestamp": "2026-05-05T02:53:14.267485+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4520.0,
+    "currency": "IDR",
+    "volume": 55621100,
+    "timestamp": "2026-05-05T02:53:14.464500+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6050.0,
+    "currency": "IDR",
+    "volume": 52139300,
+    "timestamp": "2026-05-05T02:54:15.410281+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 104781500,
+    "timestamp": "2026-05-05T02:54:15.639797+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2900.0,
+    "currency": "IDR",
+    "volume": 11856400,
+    "timestamp": "2026-05-05T02:54:15.995355+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5800.0,
+    "currency": "IDR",
+    "volume": 13373300,
+    "timestamp": "2026-05-05T02:54:16.195125+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4520.0,
+    "currency": "IDR",
+    "volume": 56674600,
+    "timestamp": "2026-05-05T02:54:16.421613+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6025.0,
+    "currency": "IDR",
+    "volume": 52518600,
+    "timestamp": "2026-05-05T02:55:17.391040+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3150.0,
+    "currency": "IDR",
+    "volume": 105168400,
+    "timestamp": "2026-05-05T02:55:17.583268+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2890.0,
+    "currency": "IDR",
+    "volume": 11874100,
+    "timestamp": "2026-05-05T02:55:17.785656+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5800.0,
+    "currency": "IDR",
+    "volume": 13380000,
+    "timestamp": "2026-05-05T02:55:18.030761+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4530.0,
+    "currency": "IDR",
+    "volume": 57245900,
+    "timestamp": "2026-05-05T02:55:18.222019+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6050.0,
+    "currency": "IDR",
+    "volume": 52895800,
+    "timestamp": "2026-05-05T02:56:19.106638+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3150.0,
+    "currency": "IDR",
+    "volume": 107371200,
+    "timestamp": "2026-05-05T02:56:19.363706+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2900.0,
+    "currency": "IDR",
+    "volume": 11887000,
+    "timestamp": "2026-05-05T02:56:19.546173+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 13443300,
+    "timestamp": "2026-05-05T02:56:19.782927+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4530.0,
+    "currency": "IDR",
+    "volume": 57652300,
+    "timestamp": "2026-05-05T02:56:19.976595+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6050.0,
+    "currency": "IDR",
+    "volume": 53321300,
+    "timestamp": "2026-05-05T02:57:20.852012+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3150.0,
+    "currency": "IDR",
+    "volume": 110161300,
+    "timestamp": "2026-05-05T02:57:21.035220+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2890.0,
+    "currency": "IDR",
+    "volume": 11894200,
+    "timestamp": "2026-05-05T02:57:21.233498+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 13468300,
+    "timestamp": "2026-05-05T02:57:21.493335+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4530.0,
+    "currency": "IDR",
+    "volume": 58705000,
+    "timestamp": "2026-05-05T02:57:21.724032+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6075.0,
+    "currency": "IDR",
+    "volume": 55061100,
+    "timestamp": "2026-05-05T02:58:22.708597+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3170.0,
+    "currency": "IDR",
+    "volume": 113747000,
+    "timestamp": "2026-05-05T02:58:22.924463+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2900.0,
+    "currency": "IDR",
+    "volume": 11919900,
+    "timestamp": "2026-05-05T02:58:23.147534+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5800.0,
+    "currency": "IDR",
+    "volume": 13483900,
+    "timestamp": "2026-05-05T02:58:23.335672+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4540.0,
+    "currency": "IDR",
+    "volume": 60271400,
+    "timestamp": "2026-05-05T02:58:23.547910+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6050.0,
+    "currency": "IDR",
+    "volume": 55581100,
+    "timestamp": "2026-05-05T02:59:24.610183+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 115633800,
+    "timestamp": "2026-05-05T02:59:24.802721+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2900.0,
+    "currency": "IDR",
+    "volume": 12867500,
+    "timestamp": "2026-05-05T02:59:25.004232+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 13594500,
+    "timestamp": "2026-05-05T02:59:25.240952+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4540.0,
+    "currency": "IDR",
+    "volume": 60861500,
+    "timestamp": "2026-05-05T02:59:25.485320+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6050.0,
+    "currency": "IDR",
+    "volume": 55941600,
+    "timestamp": "2026-05-05T03:00:26.493426+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3170.0,
+    "currency": "IDR",
+    "volume": 116289300,
+    "timestamp": "2026-05-05T03:00:26.712612+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2900.0,
+    "currency": "IDR",
+    "volume": 12898300,
+    "timestamp": "2026-05-05T03:00:27.021669+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5800.0,
+    "currency": "IDR",
+    "volume": 13697700,
+    "timestamp": "2026-05-05T03:00:27.363019+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4560.0,
+    "currency": "IDR",
+    "volume": 64198700,
+    "timestamp": "2026-05-05T03:00:27.552112+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6050.0,
+    "currency": "IDR",
+    "volume": 56281100,
+    "timestamp": "2026-05-05T03:01:28.452826+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 116495000,
+    "timestamp": "2026-05-05T03:01:28.632576+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2910.0,
+    "currency": "IDR",
+    "volume": 12949800,
+    "timestamp": "2026-05-05T03:01:28.816565+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 13668900,
+    "timestamp": "2026-05-05T03:01:29.008510+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4550.0,
+    "currency": "IDR",
+    "volume": 64900600,
+    "timestamp": "2026-05-05T03:01:29.230507+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6075.0,
+    "currency": "IDR",
+    "volume": 56565000,
+    "timestamp": "2026-05-05T03:02:30.163926+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3170.0,
+    "currency": "IDR",
+    "volume": 117340100,
+    "timestamp": "2026-05-05T03:02:30.333404+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2910.0,
+    "currency": "IDR",
+    "volume": 13005000,
+    "timestamp": "2026-05-05T03:02:30.566690+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 13690100,
+    "timestamp": "2026-05-05T03:02:30.789319+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4550.0,
+    "currency": "IDR",
+    "volume": 66224000,
+    "timestamp": "2026-05-05T03:02:31.094395+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6050.0,
+    "currency": "IDR",
+    "volume": 56981300,
+    "timestamp": "2026-05-05T03:03:32.032077+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 117808000,
+    "timestamp": "2026-05-05T03:03:32.245452+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2910.0,
+    "currency": "IDR",
+    "volume": 13018200,
+    "timestamp": "2026-05-05T03:03:32.431814+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 13712900,
+    "timestamp": "2026-05-05T03:03:32.644685+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4550.0,
+    "currency": "IDR",
+    "volume": 66453400,
+    "timestamp": "2026-05-05T03:03:32.909148+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6050.0,
+    "currency": "IDR",
+    "volume": 58154700,
+    "timestamp": "2026-05-05T03:04:33.830256+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 118780100,
+    "timestamp": "2026-05-05T03:04:34.065290+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2900.0,
+    "currency": "IDR",
+    "volume": 13046400,
+    "timestamp": "2026-05-05T03:04:34.258037+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 13733800,
+    "timestamp": "2026-05-05T03:04:34.487460+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4550.0,
+    "currency": "IDR",
+    "volume": 66603700,
+    "timestamp": "2026-05-05T03:04:34.733276+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6050.0,
+    "currency": "IDR",
+    "volume": 59418000,
+    "timestamp": "2026-05-05T03:05:35.772113+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 118949700,
+    "timestamp": "2026-05-05T03:05:35.975757+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2910.0,
+    "currency": "IDR",
+    "volume": 13110600,
+    "timestamp": "2026-05-05T03:05:36.252963+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5800.0,
+    "currency": "IDR",
+    "volume": 13766900,
+    "timestamp": "2026-05-05T03:05:36.494685+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4540.0,
+    "currency": "IDR",
+    "volume": 67907700,
+    "timestamp": "2026-05-05T03:05:36.728918+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6050.0,
+    "currency": "IDR",
+    "volume": 60520900,
+    "timestamp": "2026-05-05T03:06:40.516997+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 119170600,
+    "timestamp": "2026-05-05T03:06:40.766923+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2910.0,
+    "currency": "IDR",
+    "volume": 13131400,
+    "timestamp": "2026-05-05T03:06:40.984741+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 13799600,
+    "timestamp": "2026-05-05T03:06:41.159986+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4540.0,
+    "currency": "IDR",
+    "volume": 68763700,
+    "timestamp": "2026-05-05T03:06:41.340354+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6050.0,
+    "currency": "IDR",
+    "volume": 60781300,
+    "timestamp": "2026-05-05T03:07:42.378757+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 119844100,
+    "timestamp": "2026-05-05T03:07:42.568403+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2910.0,
+    "currency": "IDR",
+    "volume": 13173600,
+    "timestamp": "2026-05-05T03:07:42.811966+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 13818000,
+    "timestamp": "2026-05-05T03:07:43.007086+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4540.0,
+    "currency": "IDR",
+    "volume": 69099700,
+    "timestamp": "2026-05-05T03:07:43.178425+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6025.0,
+    "currency": "IDR",
+    "volume": 61317400,
+    "timestamp": "2026-05-05T03:08:44.198649+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 120089100,
+    "timestamp": "2026-05-05T03:08:44.390910+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2900.0,
+    "currency": "IDR",
+    "volume": 14813700,
+    "timestamp": "2026-05-05T03:08:44.581491+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5800.0,
+    "currency": "IDR",
+    "volume": 13845500,
+    "timestamp": "2026-05-05T03:08:44.783722+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4540.0,
+    "currency": "IDR",
+    "volume": 69373500,
+    "timestamp": "2026-05-05T03:08:44.975259+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6050.0,
+    "currency": "IDR",
+    "volume": 61533000,
+    "timestamp": "2026-05-05T03:09:46.011030+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 120212400,
+    "timestamp": "2026-05-05T03:09:46.215751+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2890.0,
+    "currency": "IDR",
+    "volume": 14806800,
+    "timestamp": "2026-05-05T03:09:46.442071+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5800.0,
+    "currency": "IDR",
+    "volume": 13865400,
+    "timestamp": "2026-05-05T03:09:46.635211+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4540.0,
+    "currency": "IDR",
+    "volume": 69472200,
+    "timestamp": "2026-05-05T03:09:46.812059+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6025.0,
+    "currency": "IDR",
+    "volume": 62108400,
+    "timestamp": "2026-05-05T03:10:47.190168+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 120628800,
+    "timestamp": "2026-05-05T03:10:47.373796+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2900.0,
+    "currency": "IDR",
+    "volume": 14810900,
+    "timestamp": "2026-05-05T03:10:47.586428+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 13980300,
+    "timestamp": "2026-05-05T03:10:47.781563+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4540.0,
+    "currency": "IDR",
+    "volume": 69670800,
+    "timestamp": "2026-05-05T03:10:47.966444+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6050.0,
+    "currency": "IDR",
+    "volume": 63315800,
+    "timestamp": "2026-05-05T03:11:48.322174+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3150.0,
+    "currency": "IDR",
+    "volume": 120730000,
+    "timestamp": "2026-05-05T03:11:48.552245+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2890.0,
+    "currency": "IDR",
+    "volume": 14818200,
+    "timestamp": "2026-05-05T03:11:48.766812+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 14011700,
+    "timestamp": "2026-05-05T03:11:48.999354+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4540.0,
+    "currency": "IDR",
+    "volume": 71450500,
+    "timestamp": "2026-05-05T03:11:49.194960+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6025.0,
+    "currency": "IDR",
+    "volume": 63656500,
+    "timestamp": "2026-05-05T03:12:50.136569+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 120862100,
+    "timestamp": "2026-05-05T03:12:50.338851+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2890.0,
+    "currency": "IDR",
+    "volume": 14819100,
+    "timestamp": "2026-05-05T03:12:50.540295+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 14132600,
+    "timestamp": "2026-05-05T03:12:50.746507+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4550.0,
+    "currency": "IDR",
+    "volume": 71878000,
+    "timestamp": "2026-05-05T03:12:50.925656+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6050.0,
+    "currency": "IDR",
+    "volume": 63852100,
+    "timestamp": "2026-05-05T03:13:51.955073+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3150.0,
+    "currency": "IDR",
+    "volume": 121047700,
+    "timestamp": "2026-05-05T03:13:52.142944+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2900.0,
+    "currency": "IDR",
+    "volume": 14828100,
+    "timestamp": "2026-05-05T03:13:52.307669+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 14163200,
+    "timestamp": "2026-05-05T03:13:52.508764+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4550.0,
+    "currency": "IDR",
+    "volume": 71963900,
+    "timestamp": "2026-05-05T03:13:52.687865+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6050.0,
+    "currency": "IDR",
+    "volume": 64025600,
+    "timestamp": "2026-05-05T03:14:53.675462+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 121189700,
+    "timestamp": "2026-05-05T03:14:53.883243+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2900.0,
+    "currency": "IDR",
+    "volume": 14841200,
+    "timestamp": "2026-05-05T03:14:54.074946+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5800.0,
+    "currency": "IDR",
+    "volume": 14907500,
+    "timestamp": "2026-05-05T03:14:54.263160+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4540.0,
+    "currency": "IDR",
+    "volume": 72001500,
+    "timestamp": "2026-05-05T03:14:54.436367+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBCA",
+    "price": 6050.0,
+    "currency": "IDR",
+    "volume": 64507400,
+    "timestamp": "2026-05-05T03:15:55.452576+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BBRI",
+    "price": 3160.0,
+    "currency": "IDR",
+    "volume": 121594900,
+    "timestamp": "2026-05-05T03:15:55.697036+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "TLKM",
+    "price": 2900.0,
+    "currency": "IDR",
+    "volume": 15078900,
+    "timestamp": "2026-05-05T03:15:55.998682+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "ASII",
+    "price": 5825.0,
+    "currency": "IDR",
+    "volume": 14921200,
+    "timestamp": "2026-05-05T03:15:56.313862+00:00",
+    "source": "yfinance"
+  },
+  {
+    "symbol": "BMRI",
+    "price": 4550.0,
+    "currency": "IDR",
+    "volume": 72596400,
+    "timestamp": "2026-05-05T03:15:56.563804+00:00",
+    "source": "yfinance"
+  }
+]

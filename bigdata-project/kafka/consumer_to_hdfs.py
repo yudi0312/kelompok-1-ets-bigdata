@@ -21,7 +21,7 @@ consumer = KafkaConsumer(
 )
 
 # Client untuk HDFS
-hdfs_client = InsecureClient("http://localhost:9870", root="/", timeout=10)
+hdfs_client = InsecureClient("http://localhost:9870", root="/", user="hadoop", timeout=10)
 
 def save_to_hdfs(topic, data):
     # Tentukan path HDFS sesuai dengan topik
@@ -33,7 +33,7 @@ def save_to_hdfs(topic, data):
     # Simpan data ke HDFS
     with hdfs_client.write(hdfs_path + filename, encoding='utf-8') as writer:
         json.dump(data, writer)
-    print(f"✅ Data dari {topic} disimpan ke HDFS: {hdfs_path}{filename}")
+    print(f"[OK] Data dari {topic} disimpan ke HDFS: {hdfs_path}{filename}")
 
 print("Consumer siap, menunggu pesan...")
 
